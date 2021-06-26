@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Klapod - Klamaluville Podcast</title>
-    <link>https://example.com/</link>
+    <link>https://klapod.netlify.com/</link>
     <description>Recent content on Klapod - Klamaluville Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klapod.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://klapod.netlify.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://klapod.netlify.com/about/</guid>
+      <description>Klapod adalah usaha seorang individu yang peduli akan perkembangan teknologi di Indonesia, menghadirkan kritik terhadap sesama warganya agar berhati-hati dalam berinternet. :) dan kini sudah saatnya kalian mendengarkan konten berkualitas Lo-Fi yang berbobot dibawakan oleh Papa King.</description>
+    </item>
     
   </channel>
 </rss>

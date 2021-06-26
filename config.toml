@@ -1,4 +1,4 @@
-baseURL = "https://klapod.netlify.com"
+baseURL = "https://klapod.netlify.app"
 title   = "Klapod - Klamaluville Podcast"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -9,9 +9,6 @@ PygmentsStyle = "monokai"
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
-# googleAnalytics = ""
-# disqusShortname = ""
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -62,39 +59,10 @@ disableHugoGeneratorInject = false
   # Home subtitle of the index page.
   #
   homeSubtitle = "Keluh kesah teknologi abad 21"
-
-  # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  #
-  # gitUrl = ""
-
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  #
   disableReadOtherPosts = false
-
-  # Enable theme toggle
-  # 
-  # This options enables the theme toggle for the theme. 
-  # Per default, this option is off. 
-  # The theme is respecting the prefers-color-scheme of the operating systeme. 
-  # With this option on, the page user is able to set the scheme he wants. 
   enableThemeToggle = true
 
-  # Sharing buttons
-  #
-  # There are a lot of buttons preconfigured. If you want to change them,
-  # generate the buttons here: https://sharingbuttons.io
-  # and add them into your own `layouts/partials/sharing-buttons.html`
-  #
   enableSharingButtons = false
-
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  #
-  customCSS = []
-  customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
@@ -126,31 +94,6 @@ disableHugoGeneratorInject = false
     logoMark     = ">"
     logoText     = "# ~/klapod"
     logoHomeLink = "/"
-    # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
-    # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
-
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
-  # A better internet.
-  # Uncomment this to enable Commento.
-  #
-  # [params.commento]
-  #   url = ""
-
-  # Uncomment this if you want a portrait on your start page
-  #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
-
   # Social icons
   [[params.social]]
     name = "twitter"
@@ -162,11 +105,11 @@ disableHugoGeneratorInject = false
 
 [[params.social]]
     name = "podcasts-google"
-    url  = "https://open.spotify.com/show/00WD0MPDYdEG6eqffyQh7w?si=efbg3fJcQMCv88aJDz1xJQ&dl_branch=1"
+    url  = "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zY2QyYzJkOC9wb2RjYXN0L3Jzcw=="
 
 [[params.social]]
     name = "podcasts-apple"
-    url  = "https://open.spotify.com/show/00WD0MPDYdEG6eqffyQh7w?si=efbg3fJcQMCv88aJDz1xJQ&dl_branch=1"
+    url  = "https://podcasts.apple.com/id/podcast/klamaluville/id1558273386"
 
   [[params.social]]
     name = "instagram"
