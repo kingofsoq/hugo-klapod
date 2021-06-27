@@ -1,5 +1,5 @@
 baseURL = "https://klapod.netlify.app"
-title   = "Klapod - Klamaluville Podcast"
+title   = "Klamaluville Podcast"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Keluh kesah teknologi abad 21"
+  homeSubtitle = "Keluh kesah berteknologi abad 21 yang bisa kalian dengarkan melalui platform dibawah ini!"
   disableReadOtherPosts = false
   enableThemeToggle = true
 
@@ -79,8 +79,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      "&#10084; by <a href=\"http://gohugo.io\">Hugo</a> & <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons
@@ -131,3 +130,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "github"
+    name       = "Github"
+    url        = "http://github.com/kingofsoq"
