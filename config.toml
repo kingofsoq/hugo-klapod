@@ -1,4 +1,4 @@
-baseURL = "https://klapod.netlify.app"
+baseURL = "https://klapod.xyz"
 title   = "Klamaluville Podcast"
 languageCode = "en-us"
 theme = "hello-friend-ng"
