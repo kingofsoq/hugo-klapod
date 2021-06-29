@@ -134,3 +134,7 @@ disableHugoGeneratorInject = false
     identifier = "github"
     name       = "Github"
     url        = "http://github.com/kingofsoq"
+  [[menu.main]]
+    identifier = "discord"
+    name       = "Discord"
+    url        = "https://discord.gg/x9gjQvUDRZ"
