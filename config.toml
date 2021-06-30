@@ -39,10 +39,10 @@ disableHugoGeneratorInject = false
 [blackfriday]
   hrefTargetBlank = true
 
-# [taxonomies]
-#   tag      = "tags"
-#   category = "categories"
-#   series   = "series"
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
 
 [params]
   dateform        = "2 Jan, 2006"
@@ -93,7 +93,13 @@ disableHugoGeneratorInject = false
     logoMark     = ">"
     logoText     = "# ~/klapod"
     logoHomeLink = "/"
+  
   # Social icons
+[[params.social]]
+    name = "telegram"
+    url  = "https://t.me/klapod"
+
+
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/kingofsoq"
