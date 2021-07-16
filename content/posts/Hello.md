@@ -6,6 +6,7 @@ toc: false
 images:
 tags:
   - Hello
+  - podcast
 ---
 
 Halo~ ini post pertama di website klapod. semua draft dan beberapa materi/resource berguna bakal diupdate disini.

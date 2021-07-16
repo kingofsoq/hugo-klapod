@@ -3,21 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://klapod.netlify.com/about/</loc>
+    <loc>https://klapod.xyz/tags/hello/</loc>
+    <lastmod>2021-06-27T05:15:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klapod.xyz/posts/2021/06/hello/</loc>
+    <lastmod>2021-06-27T05:15:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klapod.xyz/posts/</loc>
+    <lastmod>2021-06-27T05:15:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klapod.xyz/tags/</loc>
+    <lastmod>2021-06-27T05:15:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klapod.xyz/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://klapod.netlify.com/</loc>
+    <loc>https://klapod.xyz/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://klapod.netlify.com/categories/</loc>
+    <loc>https://klapod.xyz/categories/</loc>
   </url>
   
   <url>
-    <loc>https://klapod.netlify.com/tags/</loc>
+    <loc>https://klapod.xyz/series/</loc>
   </url>
   
 </urlset>

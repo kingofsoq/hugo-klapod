@@ -31,7 +31,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/posts/:title/:day/:month/:year/"
 
 [author]
   name = "Papa King"
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Keluh kesah berteknologi abad 21 yang bisa kalian dengarkan melalui platform dibawah ini!"
+  homeSubtitle = "Nantikan update tiap minggunya!"
   disableReadOtherPosts = false
   enableThemeToggle = true
 
@@ -78,9 +78,7 @@ disableHugoGeneratorInject = false
     author = true
 
     topText = []
-    bottomText = [
-      "&#10084; by <a href=\"http://gohugo.io\">Hugo</a> & <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
-    ]
+    bottomText = []
 
   # Colors for favicons
   #
@@ -95,15 +93,6 @@ disableHugoGeneratorInject = false
     logoHomeLink = "/"
   
   # Social icons
-[[params.social]]
-    name = "telegram"
-    url  = "https://t.me/klapod"
-
-
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/kingofsoq"
-
   [[params.social]]
     name = "spotify"
     url  = "https://open.spotify.com/show/00WD0MPDYdEG6eqffyQh7w?si=efbg3fJcQMCv88aJDz1xJQ&dl_branch=1"
@@ -115,10 +104,6 @@ disableHugoGeneratorInject = false
 [[params.social]]
     name = "podcasts-apple"
     url  = "https://podcasts.apple.com/id/podcast/klamaluville/id1558273386"
-
-  [[params.social]]
-    name = "instagram"
-    url  = "https://instagram.com/kingofsoq"
 
 
 [languages]
