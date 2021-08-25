@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Nantikan update tiap minggunya! | Klik salah satu dari 3 icon dibawah!!"
+  homeSubtitle = "Klik salah satu dari 3 icon dibawah untuk mendengarkan!"
   disableReadOtherPosts = false
   enableThemeToggle = true
 
