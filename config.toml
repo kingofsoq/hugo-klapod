@@ -95,7 +95,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "spotify"
-    url  = "https://open.spotify.com/show/00WD0MPDYdEG6eqffyQh7w?si=efbg3fJcQMCv88aJDz1xJQ&dl_branch=1"
+    url  = "https://open.spotify.com/show/00WD0MPDYdEG6eqffyQh7w"
 
 [[params.social]]
     name = "podcasts-google"
